@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a MERN stack project while learning fullstack <br>I'm also deep diving into react js so can become a good software engineer <br>
+Hi, I’m Ashwani Sharma — a fresher developer focused on the MERN stack. I’ve built several frontend projects with React and JavaScript, and I’m currently developing a full MERN application to strengthen my backend and full-stack skills. I like building practical, clean projects and I’m open to contributing to open-source work that helps me grow as an engineer. <br>
 
 
 ## 🌐 Socials:
